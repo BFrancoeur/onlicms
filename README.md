@@ -1,6 +1,12 @@
 # onlicms
 A new cms that will be as robust as WordPress, with a fraction of the code
 
+# Architecture
+- PHP shells/stubs
+- JavaScript (Typescript?) page layout generation
+- Static HTML pages with dynamic inputs (similar to Gatsby, Netlify, etc.)
+- Two-server architecture: one to render the layout and one to generate optimized, static HTML for the front-end. _Can this be done on a single server?_
+
 # Tasks
 - Create database (Mongo or Maria?)
 - - Create a secure database connection
