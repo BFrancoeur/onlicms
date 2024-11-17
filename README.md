@@ -16,7 +16,7 @@ A new cms that will be as robust as WordPress, with a fraction of the code
 - Create Admin dashboard page
   
 - Create permissions for these roles:
- - User/Subscriber
+  - User/Subscriber
   - Contributor/Author
   - Editor
   - Admin (CMS only)
